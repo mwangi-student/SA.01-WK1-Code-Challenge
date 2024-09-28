@@ -59,7 +59,7 @@ Javascript - For functionality
 ## Support and contact details
 
 - For installation supoort, you can reavh out via : [email](wambuimwangibrian@gmail.com)
-- For any other supoort or inquiries, you can reach out via : [tell:](+254 70404 8319
+- For any other supoort or inquiries, you can reach out via : <a href="tel:+254704048319">+254 704 04 8319</a>
 
 ### License
 
