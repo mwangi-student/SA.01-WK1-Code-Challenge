@@ -55,5 +55,5 @@ Javascript - For functionality
 
 
 ### License
-The content of this site is licensed under the [MIT license]()
+The content of this site is licensed under the [MIT license](https://github.com/mwangi-student/SA.01-WK1-Code-Challenge/blob/main/LICENCE.md)
 Copyright (c) 2024 - Mwangi-Brian.
