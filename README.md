@@ -47,7 +47,7 @@ Git clone https://github.com/mwangi-student/SA.01-WK1-Code-Challenge.git
 
 # Live Link
 
-[Git](gh-pages link)
+- In progress. Will be updated soon.
 
 ## Technologies used
 
