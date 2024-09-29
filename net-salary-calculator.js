@@ -11,9 +11,9 @@ function calculatePAYE(basicSalary) {
   } else if (basicSalary <= 32333) {
     return (basicSalary - 24000) * 0.1;
   } else if (basicSalary <= 40000) {
-    return (basicSalary - 32333) * 0.25 + 833.3; // 833.3 is the tax from previous slab
+    return (basicSalary - 32333) * 0.25 + 833.3; 
   } else {
-    return (basicSalary - 40000) * 0.3 + 2083.3; // 2083.3 is the tax from previous slabs
+    return (basicSalary - 40000) * 0.3 + 2083.3;
   }
 }
 
@@ -52,7 +52,7 @@ function calculateNHIF(basicSalary) {
 }
 
 function calculateNSSF(basicSalary) {
-  return Math.min(basicSalary * 0.06, 180); // Assuming the cap for NSSF deduction is 180
+  return Math.min(basicSalary * 0.06, 180); // I assumed the cap for NSSF deduction is 180
 }
 
 function calculateNetSalary(basicSalary, benefits) {

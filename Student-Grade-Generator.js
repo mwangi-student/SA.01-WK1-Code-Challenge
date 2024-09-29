@@ -35,5 +35,4 @@ function main() {
   });
 }
 
-// Run the program
 main();
