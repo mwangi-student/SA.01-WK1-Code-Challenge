@@ -51,10 +51,7 @@ Git clone https://github.com/mwangi-student/SA.01-WK1-Code-Challenge.git
 
 ## Technologies used
 
-HTML - For front-end
-CSS - For my styling
-Github
-Javascript - For functionality
+Javascript
 
 ## Support and contact details
 
